@@ -1,0 +1,8 @@
+{
+  "name": "plivo-meteor",
+  "description": "Plivo Meteor API Bindings",
+  "homepage": "https://github.com/andreioprisan/plivo-meteor",
+  "author": "Andrei Oprisan (http://andrei.oprisan.com)",
+  "version": "1.0.0",
+  "git": "http://github.com/andreioprisan/plivo-meteor.git"
+}
