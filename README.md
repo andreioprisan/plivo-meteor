@@ -1,9 +1,9 @@
-Plivo Meteor API bindings
-==========================
+Meteor wrapper for Plivo, the telephony framework
+=================================================
 
-This smart package exposes the official Plivo Meteor API from the node.js npm package: https://github.com/plivo/plivo-node/
+This smart package wraps the [npm package for Plivo](https://github.com/plivo/plivo-node/), an open source telephony and SMS application prototyping framework.
 
-This uses version 0.1.0 of the Plivo node.js package and the new meteor 0.6.0 npm bindings.
+This uses version 0.1.0 of the [Plivo](http://plivo.com) Node.js package and the new meteor 0.6.0 `npm` bindings.
 
 To get started, replace AUTH_ID, AUTH_TOKEN with your Plivo credentials and use some of the examples below:
 
@@ -54,5 +54,4 @@ To get started, replace AUTH_ID, AUTH_TOKEN with your Plivo credentials and use 
 ```
 
 
-For more examples, check out the official Plivo node.js quickstart section: https://github.com/plivo/plivo-examples-node
-
+For more examples, check out the official [Plivo node.js quickstart repo](https://github.com/plivo/plivo-examples-node).
