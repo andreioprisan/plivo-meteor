@@ -1,8 +1,8 @@
 {
   "name": "plivo-meteor",
-  "description": "Plivo Meteor API Bindings",
+  "description": "npm wrapper for Plivo, an open source telephony and SMS framework",
   "homepage": "https://github.com/andreioprisan/plivo-meteor",
   "author": "Andrei Oprisan (http://andrei.oprisan.com)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "git": "http://github.com/andreioprisan/plivo-meteor.git"
 }

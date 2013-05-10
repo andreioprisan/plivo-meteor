@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Plivo API Wrapper for Meteor"
+  summary: "Plivo telephony framework wrapper for Meteor"
 });
 
 Npm.depends({ "plivo": "0.1.0" });
